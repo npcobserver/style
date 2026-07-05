@@ -76,6 +76,14 @@ font-display: auto;
 src: url('https://npcobserver.com/wp-content/uploads/custom_fonts/CenturySupra/century_supra_ot_b_bold_italic.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Fira Mono';
+    src: url('https://npcobserver.com/wp-content/uploads/2025/08/subset-FiraMono-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* GLOBAL FONT RULES */
 html, body, button, input, select, textarea {
 	font-family: equity_a, "Times New Roman", "Kaiti SC", "STKaiti", "KaiTi", serif !important;
@@ -99,4 +107,17 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	color: #0F52BD !important;
+}
+
+/* SPECIFIC ELEMENTS */
+mark {
+	background: #DFEAFC;
+	color: inherit;
+	padding: 2px 2px;
+	border-radius: 0.3em;
+}
+
+code {
+	font-family: "Fira Mono", monospace;
+	padding: 2px 2px;
 }
