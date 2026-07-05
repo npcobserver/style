@@ -30,7 +30,7 @@
 #### Content
 - Defaults
   - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: _not yet enacted_]
-  - <span color="#DE2910">[Cᴜʀʀᴇɴᴛ Tᴇxᴛ: _not yet available_]</span>
+  - <span style="color: #DE2910">[Cᴜʀʀᴇɴᴛ Tᴇxᴛ: _not yet available_]</span>
   - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: Chinese only]
   - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: Chinese, English]
 - With comparison charts
