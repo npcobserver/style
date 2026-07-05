@@ -196,7 +196,7 @@ _`English title`_ [`中文标题`]
 - **NPCSC Consultation Shortcode**
   - Add a space between the "text" parenthentical and the shortcode.
   - Make sure the URL entered is NOT active (i.e., can't be clicked).
-  - If entered correctly, the shortcode will generate the 💬 emoji at the end of the line and begin a new indented bullet with information like <kbd>[Public Consultation](https://npcobserver.com/2025/06/china-npc-consultation-emergency-aviation-community-governance-social-assistance-healthcare-food-safety-law/): June 27 – July 26, 2025</kbd>. While the consultation is ongoing, the shortcode will also add the 🔔 emoji and a <span style="background-color:#F9EBBE">yellow background</span>.
+  - If entered correctly, the shortcode will generate the 💬 emoji at the end of the line and begin a new indented bullet with information like <kbd><a href="https://npcobserver.com/2025/06/china-npc-consultation-emergency-aviation-community-governance-social-assistance-healthcare-food-safety-law/">Public Consultation</a>: June 27 – July 26, 2025</kbd>. While the consultation is ongoing, the shortcode will also add the 🔔 emoji and a <span style="background-color:#F9EBBE">yellow background</span>.
 - **Other Public Consultations**
   - In general, use "State Council" when an administrative agency solicited public comment, even a nominal one.
   - Do NOT specify the State Council agency that solicited public comment.
@@ -213,6 +213,7 @@ _`English title`_ [`中文标题`]
 - Report on Results of Deliberation (`date`) <mark>=审议结果的报告</mark>
 - ✂️ Report on Suggestions for Revision (`date`) <mark>=修改意见的报告</mark>
 - Presidential Order (`date`)
+
 **NPC Enactments**
   - NPCSC Stage
   - Explanation (`date`)
@@ -223,6 +224,7 @@ _`English title`_ [`中文标题`]
   - Report on Results of Deliberation (`date`)
   - Report on Suggestions for Revision (`date`)
   - <mark>Presidential Order / NPC Public Announcement</mark> (`date`)
+ 
 **Date**
 - `month day, year`
 - pending
