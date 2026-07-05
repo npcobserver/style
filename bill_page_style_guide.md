@@ -30,8 +30,22 @@
 #### Content
 - Defaults
   - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: _not yet enacted_]
-	- [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: _not yet available_]
+  - <span color="#DE2910">[Cᴜʀʀᴇɴᴛ Tᴇxᴛ: _not yet available_]</span>
   - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: Chinese only]
   - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: Chinese, English]
+- With comparison charts
+  - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: Chinese only · 🆚]
+  - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: Chinese | English · 🆚]
+- Multiple translations
+  - [Cᴜʀʀᴇɴᴛ Tᴇxᴛ: Chinese | English › `Outlet1`; `Outlet2`]
+- Insignificantly outdated translation
+  - [Aᴠᴀɪʟᴀʙʟᴇ Tᴇxᴛ: Chinese (current) | English (v. `year`)]
 
 #### Details
+- Enter Current Text in "Edit as HTML" mode as <kbd>`[<span class="small-caps">Current Text</span>: *]`</kbd>.
+- **Comparison chart**
+  - Link to comparison charts here **only** in the case of a new law or revision. For amendments, see "Legislative History and Text."
+  - When a webpage or file includes both a text and a comparison chart, do NOT include ·; instead, apply its link to both the relevant language name and the 🆚 emoji.
+- **Bills passed but not yet available**
+  - In the case of an amendment or a revision, (1) change the text to "Chinese only" but do NOT alter the link; (2) apply the native cyan bluish gray; and (3) add "_Full text of the Law as `«amended / revised»` is not yet available_" below (see next row). **At my discretion, exceptions will be made for closely watched bills.**
+  - In the case of a new law, apply the native vivid red, which will be converted to #DE2910 automatically.
